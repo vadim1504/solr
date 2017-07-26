@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <description>
+        <title-info>
+            <genre>antique</genre>
+                <author><first-name>John</first-name><last-name>Backhouse</last-name></author>
+            <book-title>A Hacker's Revenge</book-title>
+            <coverpage><image xlink:href="#_0.jpg" /></coverpage>
+            <lang>en</lang>
+            <keywords>thriller</keywords>
+            
+        </title-info>
+        <document-info>
+            <author><first-name>John</first-name><last-name>Backhouse</last-name></author>
+            <program-used>calibre 2.50.1</program-used>
+            <date>20.4.2016</date>
+            <id>20226b71-4ad1-44c9-9b4a-0315a87d29ec</id>
+            <version>1.0</version>
+        </document-info>
+        <publish-info>
+            <publisher>http://english-e-books.net/</publisher>
+            <year>0101</year>
+            
+        </publish-info>
+    </description>
+<body>
+<section>
+<p>CHAPTER ONE</p>
+
+<p><strong>The New Computer System</strong></p>
+
+<p>At exactly 8.20 Mr Henry Williams walked through the doors of the bank. He was the manager and had worked there for twenty years. He wasn't always calm and relaxed when he arrived at work but yesterday something had happened to make his life much easier. He looked around the bank. There were beautiful new computers on every desk.</p>
+
+<p>Some were connected to printers, others to scanners. The CPUs were hidden under the desks and the keyboards waited to be used. On each mouse pad was a mouse with a small red light, which lit up when the computer was switched on. The VDUs shone as the sun came through the window. Mr Williams smiled. When he entered his office, he saw that his secretary had already arrived.</p>
+
+<p>"Morning, Mr Williams," she said happily. She was a very nice girl with long, blonde hair and a big smile but she wasn't the most efficient secretary in the world.</p>
+
+<p>"Good morning, Belinda. Are you looking forward to discovering the wonderful things that your new computer can do?"</p>
+
+<p>She looked worried. "Yes, but I hope I don't make too many mistakes. Yesterday I nearly lost some important information because I pressed the wrong key."</p>
+
+<p>"Don't worry. I know you've only been here for six months. Mike has assured me that we now have the most up-to-date computer hardware and software are the most secure system money can buy."</p>
+
+<p>Mike Black was the bank's network manager and head of technology. He had organized and set up the new system.</p>
+
+<p>At that moment someone knocked on the door and Mike came in.</p>
+
+<p>"Morning, Mr Williams. How are you?" he said.</p>
+
+<p>"Very well, thank you, Mike. Now, are you sure the system is functioning properly? Can I go on holiday next week to the Caribbean without worrying about things back here?"</p>
+
+<p>Mike smiled. "Things couldn't be better. Our LAN is working perfectly. It is now connected to the bank's WAN and the security access rights are..."</p>
+
+<p>"Mike, you know that my knowledge of computers is very limited. I'm afraid I belong to another generation - which is why I pay you to solve our IT problems."</p>
+
+<p>IT terms were a foreign language to Henry Williams. His son Robbie was only 15 but he was already a computer genius and sat in front of his monitor for hours every day. He had no problem logging on and off, surfing the net or downloading files. His father was an excellent bank manager but unfortunately he had no idea what these terms meant. He was grateful for experts like Mike who could decipher these mysteries for him.</p>
+
+<p>"Don't worry. You can have a wonderful time in the Caribbean. Things couldn't be better here," replied Mike.</p>
+
+<p>He left the office and Mr Williams sat down at his desk on which there was no computer at all, either new or old.</p>
+
+<p>He was dreaming of blue seas and white beaches when a cry from Belinda's desk brought him back to reality. "Mr Williams, my computer has crashed!" As soon as she had said the words, they heard similar cries of alarm coming from the bank's main area downstairs.</p>
+
+<p>One by one the computers were crashing...</p><empty-line /><p>CHAPTER TWO</p>
+
+<p><strong>A Problem</strong></p>
+
+<p>Mr Williams ran down the escalator and into the main office area. What was happening? All the computers were down. Everyone was trying to reboot but it was impossible. Henry Williams tried not to panic. He asked Belinda to call Mike and tell him to come immediately. Then he said to his staff, "Don't worry, everyone. I'm sure it's a minor problem that Mike will soon resolve." A young bank teller whispered to a colleague, "He said that last week when that virus destroyed most of our files. Remember?"</p>
+
+<p>His friend smiled. Someone had sent an e-mail to all the staff which promised to show photos of Belinda's new boyfriend. Belinda was very popular with the staff in the bank so naturally everyone opened it. But there was no photo, just a virus which corrupted the entire system. Mike, who still didn't know about the problem, arrived in the lift just as strange things began to happen. First the lights went off, leaving the bank in darkness. Then a client came in to complain to a cashier that he couldn't access his account from the ATM outside the bank. Then the lights came on again but the doors closed automatically, locking everyone in the bank. Mr Williams said sarcastically, "As you can see, Mike, our new system is working perfectly. Nobody can do any work, the clients are angry, and we are all prisoners in the bank!"</p>
+
+<p>Mike smiled nervously. "I'm sure it's nothing. I'll take a look at the server and see what the problem is." Mike was the only person with total security access rights for the system and he had the only copy of the password list. He was very good at his job so he wasn't too worried about these "hiccups." He went to the main computer and put in his password. A message appeared on the screen:</p>
+
+<p>Access Denied</p>
+
+<p>Password Invalid</p>
+
+<p>Everyone in the bank was watching him. Mike took his password list from his wallet. He typed in his password again, slowly and carefully. Every time he tried the same message appeared on the screen. "That's impossible," he cried. His face was white with tension. Mr Williams was waiting for an explanation. "Is everything OK?" he asked.  Mike prepared to give his boss the bad news.</p>
+
+<p>"It seems that... someone has obtained the passwords for the new system and... has changed them."</p>
+
+<p>"And what exactly does that mean?" asked his boss angrily. Mike took a deep breath.</p>
+
+<p>"It means that this person now has total control of the bank."</p>
+
+<p>At that moment the doors of the bank miraculously opened again. No one spoke. The silence was broken only by the noise of the clock on the wall. All the staff were waiting for Mr Williams' reaction.</p>
+
+<p>"And tell me, how did this person get the passwords?" asked Mr Williams quietly.</p>
+
+<p>"I have no idea," replied Mike. "I always keep the password list in my wallet. No one else has ever seen it. It's a complete mystery."</p>
+
+<p>"No!" shouted Mr Williams. "The mystery is why I gave you a job. First the virus and now this. Well, you can start looking for a new job. You're sacked!"</p>
+
+<p>Mike left the bank without a word. He didn't look at anyone. He knew that it was his fault. Belinda's voice broke the silence. "Oh, Mr Williams, what are we going to do?" Before he could answer, the computer displayed a new message:</p>
+
+<p>E-mail arriving for Henry Williams</p><empty-line /><p>CHAPTER THREE</p>
+
+<p><strong>Are You Ready to Play, Henry?</strong></p>
+
+<p>Mr Williams turned to the bank staff and said, "Please, continue to work as normal. There is nothing to worry about."</p>
+
+<p>Everyone looked surprised. How could they work without computers? It would be impossible. No one moved and no one spoke. Mr Williams repeated his message: "Back to work now, please. Our clients will arrive soon and we must be ready." As his staff slowly began to return to work, the bank manager sat down in front of the server. Belinda stood next to him. Mr Williams looked at the screen. He was now extremely worried. He hesitated for a moment. Belinda thought he was in difficulty and she wanted to help. "You have to click on the e-mail icon in the comer of the screen," she said. "I know, I know. I'm not completely stupid!" her boss shouted. Some members of staff looked at one another and smiled. Belinda knew Mr Williams well. She knew that when he was angry, as he was now, it was better to say nothing. She watched silently as he clicked on the icon. The mailbox appeared and revealed the subject of the new message:</p>
+
+<p>Are you ready to play, Henry Williams?</p>
+
+<p>Yes, he was ready. He had no idea who had sent the e-mail but he wanted an explanation and an end to this situation. He opened the message and the screen filled with words.</p>
+
+<p>Hello Henry!</p>
+
+<p>How are you today? Happy? Or maybe worried? Or even angry! I haven't seen you for a long time but I can tell you that I am very, very annoyed with you. You are not my favorite person. How many enemies do you have? AT least one - me! I am going to make you pay for what you did to me before. As you know, I have entered your new and secure (ha! ha!) computer system and guess what? It's MY system now. It was so easy to discover the passwords. You should be more careful, Henry. You don't mind if I call you Henry, do you?</p>
+
+<p>Mr Williams was definitely angry now, and confused. He asked Belinda, "Who is this person? What does he want? Or maybe it's a woman? Why is he (or she) angry? I'm an honest and respectable man and people like me - well, most people. Isn't that true, Belinda?" He turned to look at Belinda, hoping that she would give him the answer he wanted to hear, but she wasn't listening. She was reading the rest of the message as it appeared...</p>
+
+<p> I have changed all the passwords so now I control everything in your bank. Be nice to me or I will lock the door again - or perhaps I'll do something much worse! But don't be afraid; I know that you're an intelligent (ha! ha!) man, Henry, so I am going to give you a chance to save your precious bank. We are going to play a game. If you win, the bank will be saved. If you lose... the bank will be destroyed! Do you like my idea? I think it's great! It means that the fate of the bank, your bank, is in your own hands.</p>
+
+<p>So, Henry, my friend... are you ready to play?</p><empty-line /><p>CHAPTER FOUR</p>
+
+<p><strong>Don't Call the Police!</strong></p>
+
+<p>It was very noisy in the bank. Clients were arriving and the staff had to tell them that there was a problem with the computers. Some clients left immediately, some were angry and began to shout, others wanted to see the manager. But Mr Williams had no time to speak to anyone. He had a problem too. A big problem. Two members of his staff had moved the server to his office. It was much quieter in there and he could think without anyone disturbing him.</p>
+
+<p>Belinda was sitting next to him. She was beginning to panic and when she felt like that she couldn't stop talking.</p>
+
+<p>"What a horrible man. I'm sure it's a man. He's so evil. What are you going to do, Mr Williams? What a terrible situation! I want to help you but I just don't know what to do. Shall we call the police? I'm sure..."</p>
+
+<p>Mr Williams couldn't concentrate. His secretary was talking faster and faster.</p>
+
+<p>"Belinda, why don't you go and make me a nice cup of tea?"</p>
+
+<p>Belinda smiled brightly and went out of the office. A nice cup of tea was the solution to all problems in her opinion.</p>
+
+<p>So, undisturbed, Mr Williams was able to read the final part of the mysterious e-mail.</p>
+
+<p>This is the game: I will send you three puzzles, one at a time. You must solve these puzzles in just 24 hours.</p>
+
+<p>That's plenty of time for an intelligent man like you, Henry. You'll probably need to be a computer expert to solve them, but you use computers every day, don't you? (Ha! ha!) If you fail to solve all three puzzles, I will empty every bank account in your bank from the smallest to the largest. all the money will disappear and your bank will be destroyed.</p>
+
+<p>One final thing - DON'T call the police. That would be very stupid. If you call the police, I will know.</p>
+
+<p>Remember that I can destroy your bank in a few seconds. Don't risk it, Henry.</p>
+
+<p>Do you think this is all a joke? I want to show you that I am very serious. Henry, do you know how much money you have in your bank account? Are you sure?</p>
+
+<p>Why don't you check? I think you'll be surprised!</p>
+
+<p>Now I am going to give your staff access to the computers so the bank can function as normal. You see, I'm not so evil, but remember that I can switch off the computers or change anything at any time.</p>
+
+<p>Bye for now, but don't worry... I'll be back soon.</p>
+
+<p>Mr Williams sat back in his chair. He had a bad headache. Things were not improving. He was thinking about what to do when he heard shouts of joy coming from the bank staff downstairs. The door opened and Belinda came in with the tea. "The computers are working again, Mr Williams. Isn't that wonderful? Everything is back to normal. Maybe the e-mail was just a joke."</p>
+
+<p>"Well, we'll know in a moment, Belinda," he replied. There were two things that Mr Williams could do on a computer - use e-mail and access his own bank account. Why did the mystery hacker tell him to check his account? He put in his password and then his account number and waited. After a few seconds the information he wanted appeared on the screen...</p><empty-line /><p>CHAPTER FIVE</p>
+
+<p><strong>Puzzle Number One</strong></p>
+
+<p>Mr Williams stared at the computer screen, horrified. His hank account was empty! The bank manager quickly closed the page but Belinda had already seen it. She dropped her cup of tea and began to cry. Before Henry Williams could say a word, another message appeared on the screen.</p>
+
+<p>E-mail arriving for Henry Williams Puzzle Number One</p>
+
+<p>Mr Williams clicked to open the message and looked at the first puzzle. There were just a few words and lots of strange symbols and abbreviations.</p>
+
+<p>It's 9.15 and time to play!</p>
+
+<p>WU Henry? I C that UR : - ( Y?</p>
+
+<p>U can't C me  U R : - ( but I am &gt;-(</p>
+
+<p>IMO U R &gt;:-C OR PRHPS &lt;:-O</p>
+
+<p>TAFN I'll BBL</p>
+
+<p>EOM HAND (LOL)</p>
+
+<p>Henry, do you like the first puzzle? Isn't it cool? Cool and wicked. The clock has started to tick. Hurry, hurry, hurry! BFN :-)</p>
+
+<p>Mr Williams didn't understand anything. He looked at Belinda, who was still crying. "Belinda, please, stop crying for just one minute and call Mike. Tell him to come here at once. We need his help."</p>
+
+<p>She looked at him in amazement and replied, "But Mr Williams, you sacked Mike about an hour ago. Don't you remember?"</p>
+
+<p>Yes, now he did remember. There was no one to help him.</p>
+
+<p>His headache was getting worse. He couldn't think. Then Belinda's voice came from behind his chair. "Why don't you call your son, Robbie? He's very good with computers, isn't he?"</p>
+
+<p>Mr Williams got up and hugged her. "Yes! Belinda, you're fantastic. Why didn't I think of that?" It was a school holiday so Robbie would be in his bedroom, playing on the computer and listening to music but definitely not studying. It was rare to see an open textbook in that bedroom. There were two things Mr Williams always associated with his son - his mobile phone and his baseball cap. Mr Williams picked up the phone and dialled his home number.</p>
+
+<p>"Robbie? This is your father. Listen, I have a problem with the computers at the bank. Can you come and help me? I don't care if you're fighting Lara Croft. This is really important. Come as soon as possible please. Thank you."</p>
+
+<p>Mr Williams put down the phone and smiled. "That was a great idea of yours, Belinda. Robbie's a teenager so I'm sure he'll understand all the strange symbols and abbreviations in the puzzle."</p>
+
+<p>Belinda blushed. "If I could make another suggestion, Mr Williams? I think you can see where the e-mail came from. Look at the top of the page."</p>
+
+<p>She was right. "Well done again, Belinda! It was sent from the local library. So, our mystery hacker thinks he's clever, does he?"</p>
+
+<p>Mr Williams picked up the phone again. This time he called the security office.</p>
+
+<p>He explained the situation and told the head of security to send two guards to the library to find and arrest the hacker.</p>
+
+<p>He was feeling a little bit better and Belinda had stopped crying. Then he noticed something appear on the computer screen. It was a clock icon and an hourglass. Fifteen minutes had already passed and the sand was falling.</p>
+
+<p>The countdown had begun...</p><empty-line /><p>CHAPTER SIX</p>
+
+<p><strong>Trouble in the Library</strong></p>
+
+<p>It was only 9.30 but there were already a lot of people inside the library; some were looking for a bestseller on the bookshelves, others were reading the newspapers or books in the study area and a few were using the photocopying machine and the computers. A man was reading the messages on a big notice-board. A mother and her child were going upstairs to the children's section.</p>
+
+<p>A librarian was pushing a trolley of books. It was very quiet.</p>
+
+<p>In the library anyone who had to speak, spoke quietly. The librarians were there to help anyone who had a problem.</p>
+
+<p>This was the scene when Bill and Ben, the two security guards from the bank, arrived to investigate. They walked to the desk where a librarian was helping an old lady.</p>
+
+<p>"We believe that a criminal has sent an e-mail message from a computer in this library and we want to see the list of people who have used the Internet this morning," said Bill.</p>
+
+<p>The librarian calmly replied, "I'm sorry but I'm busy now. If you would like to wait, I'll be happy to help you as soon as I can."</p>
+
+<p>Ben was not a patient man. "I don't think you understand, madam. We are here to arrest a criminal and we want to do it now!" he shouted.</p>
+
+<p>The old lady, who was in front of Ben, was angry and she hit both guards with her handbag. "Hey, I was here first! You are very rude men!" she said. The librarian tried to calm everyone down. She said to the men, "Please don't shout. This is a library. I'm afraid we can only give information about the people who use our library to the police. Are you policemen?" Bill replied, "No, we're security guards from the bank on London Road and we..."</p>
+
+<p>The librarian interrupted him, "Then I can't help you. Now, will you please leave the library?" But the men didn't want to leave. Bill had an idea. "Hey, Ben, maybe the hacker is still using the computer. Let's go and see."</p>
+
+<p>They ran to the computer area and began to question the four people who were using the computers. Now everyone in the library, including the librarians, came to watch.</p>
+
+<p>The guards were shouting and the people at the computers were frightened.</p>
+
+<p>Mr Page, the head librarian, came out of his office to see why there was all this noise in his usually quiet library. The scene he saw shocked him. He walked to the computer area and demanded to know what was happening.</p>
+
+<p>About twenty people answered him at the same time so it was impossible to understand. But he soon realized that the two men dressed in blue uniforms were causing the problem and were disturbing everyone.</p>
+
+<p>He shouted, "You two, get out of my library now!" And with the help of some people in the library, he pushed them to the door and then out of the library and into the street.</p>
+
+<p>"And don't come back!" yelled the old lady, furiously. All the people in the library were talking about what had just happened.</p>
+
+<p>Nobody noticed a man who was hiding behind the shelves. He was laughing...</p><empty-line /><p>CHAPTER SEVEN</p>
+
+<p><strong>Robbie the Hero</strong></p>
+
+<p>- Robbie Williams arrived at the bank a few minutes after the phone conversation with his father. He wasn't very happy. It was the school holidays and he wanted to go out with his friends but his mother told him at least ten times a day to open a textbook and study. Today he had wanted to buy a new football scarf and a computer game but instead he had to help his father at the bank! He went inside and up the stairs to the office.</p>
+
+<p>"Hey, Dad, what's up? I have to meet my friends at the shopping centre at lunchtime. I'm going to buy a new computer game. It's wicked. It's called..." Mr Williams interrupted his son. "Robbie, please, take those headphones off and listen to me." He quickly explained the problem of the hacker. Robbie couldn't believe it.</p>
+
+<p>"Bad luck, Dad. How can I help?"</p>
+
+<p>Mr Williams showed him the first puzzle. Robbie gave his father a big smile.</p>
+
+<p>"Relax, Dad. This is so easy I can do it with my eyes shut! I use these abbreviations every day when I'm in a chat room or when I text my friends on my mobile phone. I'll show you. WU stands for 'What's up?' I C stands for 'I see.' And these symbols are called 'emoticons.' They look like a face and they express the way you feel. I can easily decode this message for you." Robbie sat down, clicked on the reply icon and wrote out the message:</p>
+
+<p>What's up Henry? I see you are sad. Why? You can't see me. You are sad but I am angry. In my opinion you are surprised or perhaps afraid. That's all for now. I'll be back later. End Of Message Have a nice day (laughing out loud) Bye for now!</p>
+
+<p>"See? I told you it was easy. Now I'll click on 'Send' and the message will go back to the sender." Mr Williams thanked his son and slowly he began to relax... but for how long?</p>
+
+<p>It was now 10.15. Only one hour had passed. Belinda came into the office and said to her boss,</p>
+
+<p>"The ATM is working again..." Mr Williams smiled. "But," she added quickly, "it's giving the customers too much money..."</p>
+
+<p>Mr Williams tell back into his chair. Why was life so difficult?</p>
+
+<p>The security guards Bill and Ben knocked at the door and came into his office. Did they have some good news for him?</p>
+
+<p>"Well?" he asked hopefully. "Did you find him?"</p>
+
+<p>Bill answered, "Not exactly, Mr Williams. We tried but the people at the library were very unfriendly."</p>
+
+<p>"Yes," added Ben. "They didn't want to help us and in the end they asked us to leave. There was an old lady who..." Mr Williams was angry.</p>
+
+<p>"I'm not interested in the old lady. You obviously didn't catch the hacker. You are both completely incompetent. Now go back to your office before I sack you."</p>
+
+<p>His headache had returned, worse than ever. Then his son said, "Dad, look. There's another message from the hacker." He looked at Robbie and then at Belinda. Then they all looked at the screen...</p><empty-line /><p>CHAPTER EIGHT</p>
+
+<p><strong>My Name is Trentine</strong></p>
+
+<p>Hello Henry,</p>
+
+<p>Well, that was an easy puzzle. I imagine someone helped you - your son Robbie perhaps? He's intelligent but your security guards are really stupid.</p>
+
+<p>They didn't see me at the library but I saw them! Never mind! Maybe they'll have better luck next time... Here's your second puzzle - impossible, I think. Have fun! BFN</p>
+
+<p>Puzzle Number Two</p>
+
+<p>My name is TRENTINE - I am power and knowledge. These are my friends:</p>
+
+<p>Berrows  limea   rodlw ediw bew  thac moro  frus</p>
+
+<p>Henry Williams wasn't very worried. He had his secret weapon - Robbie!</p>
+
+<p>"You can solve this puzzle too, can't you, Robbie?" he asked. Then he saw his son's face.</p>
+
+<p>"Dad, I'm really sorry but I don't understand it. But, look - the hacker sent it from the Internet Cafe in the city centre."</p>
+
+<p>Belinda was crying again. Mr Williams phoned the security office for the second time that day and told Bill and Ben to go to the Internet Cafe to find the hacker. As soon as he put down the phone, a bank teller came into his office with more bad news.</p>
+
+<p>"A customer has just told me that the bank's website is advertising a special offer - a credit card with 0% interest. Is it true?" he asked.</p>
+
+<p>"Of course it isn't!" yelled Mr Williams. "Don't give any new credit cards to any of our customers! Now go back to work!"</p>
+
+<p>The teller disappeared. The minutes became hours and Mr Williams became more and more agitated. Robbie continued to look at the puzzle perplexed, and Belinda continued to cry. Suddenly Robbie had an idea. "I know what to do!" he shouted.</p>
+
+<p>His father jumped up. "Have you solved the puzzle?'" he asked.</p>
+
+<p>"No, but I bet my friend Joe can help us. I'll send him a text message on his mobile." Mr Williams sat down again while Robbie sent the message.</p>
+
+<p>Come to Bank Now. Rob</p>
+
+<p>When Joe arrived it was already 5 o'clock.</p>
+
+<p>"What's up, Robbie?" he asked. Then he saw Belinda, who smiled at him. He smiled back. Wow! She was beautiful! He immediately fell in love with her.</p>
+
+<p>"Joe, listen to me," said Robbie. He explained about the hacker and showed Joe the second puzzle. Joe didn't want to take his eyes off Belinda but he had to look at the computer screen. Mr Williams was beginning to panic.</p>
+
+<p>"Hurry, boys. There isn't much time left."</p>
+
+<p>"Take it easy, Mr W. We can solve this. Come on, Robbie. Let's do it."</p>
+
+<p>After four long hours they solved the puzzle. "So, who is Trentine?" asked Mr Williams.</p>
+
+<p>"The Internet," replied Joe.</p>
+
+<p>"Of course," said Robbie. "And the friends are all words connected with the Internet - browser, e-mail, world wide web, chat room and..."</p>
+
+<p>"Surf," said Belinda happily.</p>
+
+<p>Joe looked at her. "Belinda, you are so cool. You're the perfect girl tor me," he said as he clicked on the "Send" icon.</p>
+
+<p>Mr Williams looked at them and said to himself: "What are they talking about? I think I'm getting old."</p>
+
+<p>It was nine o'clock. The hourglass was half-empty but they had solved the puzzle in time. Mr Williams was very relieved. The situation was improving at last. At that moment the telephone rang. When Mr Williams answered he heard a voice say: "Good evening. This is the police..."</p><empty-line /><p>CHAPTER NINE</p>
+
+<p><strong>A Surprise for Henry</strong></p>
+
+<p>Mr Williams put down the phone. He said, "That was the police. It seems that Bill and Ben created a disturbance at the Internet Cafe and they have been arrested. They didn't catch the hacker, of course. Why doesn't that surprise me? Well, they can stay at the police station until we find the hacker." There was no reply from the others. Robbie was sending a text message on his mobile phone to his friends to say why he hadn't met them that afternoon. Joe was talking to Belinda.</p>
+
+<p>"Will you go out with me tonight, Belinda? There's a great hamburger place near here." Belinda smiled at him.</p>
+
+<p>"But you're only 15, Joe. I'm too old for you."</p>
+
+<p>"I'm very mature for my age," he replied quickly. "Come on! We'll have a fantastic time. I'll pay and..." Their conversation was interrupted by the hacker.</p>
+
+<p>Congratulations, Henry. You've solved the second Puzzle. I suppose Robbie helped you again. It's a pity those security guards aren't as intelligent as your son. They failed again, didn't they? Henry, there's still another puzzle to solve. If you solve it, you will discover my identity. I'll send the Message later. First, you need to relax and... cool down. Are you ready for a surprise?</p>
+
+<p>BFN</p>
+
+<p>"A surprise. What does that mean, Mr Williams'" asked Belinda.</p>
+
+<p>"I have no idea but I'm sure we'll soon find out," replied her boss.</p>
+
+<p>All the staff had gone home at 5 o'clock as usual. The offices were silent. He was suddenly very tired. His eyes began to close...</p>
+
+<p>He was on holiday in the Caribbean. He was on the beach. It was hot and sunny. There were no clouds in the sky. It was too hot so he went swimming in the sea to cool down. He was wet, very wet... Mr Williams woke up. He was wet! Was it raining in his office? He heard Belinda's voice:</p>
+
+<p>"Mr Williams, what's happening? I'm all wet. Where is the water coming from? My hair and clothes are ruined!"</p>
+
+<p>Mr Williams answered, "This is our surprise, Belinda. Our friend the hacker has started the sprinkler system. Very funny. Let's get out of here."</p>
+
+<p>They all ran out of the office and went downstairs. Joe tried to console Belinda, and Robbie wanted to know if he could go home.</p>
+
+<p>"Please, Dad. It's late and I want to watch TV tonight."</p>
+
+<p>"Not yet," replied his father. "We still have another puzzle to solve."</p>
+
+<p>"What do you mean 'we,' Dad? You haven't done anything yet," replied his son sarcastically. Mr Williams looked at his son but he knew that Robbie was right. The boys had solved the first two puzzles.</p>
+
+<p>In the distance they heard a siren. Was it the police? Mr Williams and Robbie went to the doors of the bank. Slowly Mr Williams opened the door...</p><empty-line /><p>CHAPTER TEN</p>
+
+<p><strong>Where's the Fire?</strong></p>
+
+<p>Mr Williams opened the door and three firemen ran into the hank.</p>
+
+<p>"OK, where's the fire?" they said. Mr Williams was very confused.</p>
+
+<p>"What do you mean, 'fire'? There's no fire here. I think you've made a mistake."</p>
+
+<p>The firemen were not convinced. "Mr Williams, have you forgotten that the bank's sprinkler system is connected to the alarm at the tire station? The sprinklers started, the alarm sounded and we came here to put out the fire. Now, where is it?" This time Robbie spoke.</p>
+
+<p>"There is no fire. The sprinklers started because there must be a problem with the system."</p>
+
+<p>"Yes," added Mr Williams. "I'm so sorry that you've come here for nothing."</p>
+
+<p>"Well, I must say I can't see any fire. We'll come back tomorrow morning to check if there's some kind of problem with the sprinklers," the fireman replied. "You're working very late tonight, Mr Williams," he added.</p>
+
+<p>"Yes, we have a lot to do," came the tired reply. When they had gone, Mr Williams told Belinda that she could go home. He opened the door for her and Robbie tried to go out at the same time. His father pulled him back.</p>
+
+<p>"I need you here," he said. "Let's go back to the office."</p>
+
+<p>"Oh, Dad," Robbie protested but he followed his father upstairs.</p>
+
+<p>It was four o'clock in the morning when the final puzzle arrived. Robbie and Joe were sleeping on the floor. They had been too tired to stay awake. Henry Williams forced himself to look at the computer screen.</p>
+
+<p> Hi, Henry. Here's the final puzzle.</p>
+
+<p>You have to read these sentences about a famous person and find the four words.</p>
+
+<p>Puzzle Number Three</p>
+
+<p>The first word is his first but it's your second. The second word is a barrier but also a way to enter. The third word is the baby, or is it a monster? The fourth word is where it all began.</p>
+
+<p>Now take the first letter of each word, then add the letters I and A. You now have six letters and in these letters you will find my name.</p>
+
+<p>BFN</p>
+
+<p>It was incredible. A few hours ago everything was fine. Now someone wanted to destroy his bank and his life. Why? He touched Robbie gently and said, "Robbie, wake up! The last puzzle has arrived. We've only got a few hours to solve it." There was no response from his son, who continued to sleep. Mr Williams tried to wake Joe, but Joe simply mumbled in his sleep, "Belinda, do you want a hamburger or a cheeseburger?" Mr Williams sat with his head in his hands. The boys were sleeping and he couldn't wake them. What was he going to do? He looked at the clock again - it was already four thirty! Then another e-mail arrived.</p>
+
+<p>Come on, Henry. Admit it. You've lost.</p>
+
+<p>Soon I will start to empty the bank accounts. Who shall I choose first? Perhaps the police station? OR maybe I'll choose Mrs Miller, the poor old lady from the library. No, I think I'll start with the Town Council - it's the end of the month and wages must be paid.</p>
+
+<p>Was the hacker right? Was this the end...?</p><empty-line /><p>CHAPTER ELEVEN</p>
+
+<p><strong>Is It the End?</strong></p>
+
+<p>At 8.30 Mr Williams opened his eyes. For a moment he didn't remember the events of the previous day. Then slowly his mind formed a picture of a computer hacker and some strange puzzles. He wondered if he had dreamt it all. Then he saw Robbie and Joe, who were still asleep on the floor and he saw the computer screen. The final puzzle was still there and the hourglass was almost empty. It wasn't a nightmare; it was real!</p>
+
+<p>The door of the office opened and Belinda came in. "Oh, Mr Williams. Have you been here all night? And poor Robbie and Joe too. Did you find the solution to the last puzzle?"</p>
+
+<p>She saw his expression and already knew the answer. "I'll make you a nice cup of tea and you'll soon feel better," she said.</p>
+
+<p>There were only thirty minutes left. Mr Williams was angry with himself. He felt responsible for everything. His bank was in danger and he couldn't save it. He tried to wake Robbie again but it was difficult to wake his teenage son before midday! Belinda returned with the tea. Mr Williams drank three cups.</p>
+
+<p>He looked out of his window. The bank teller were arriving for another day's work - maybe the last day. What could he tell them? In desperation he sat down in front of the computer again. "Belinda, if we win, I promise that I will learn about computers and become an expert. My son is only 15 and he knows much more than me. I'm living in the past and I have to change."</p>
+
+<p>"That's a wonderful idea, Mr Williams. And of course, I'll help you as much as possible. I know a lot of things now and..."</p>
+
+<p>She didn't finish her sentence because Mr Williams shouted so loudly that Robbie and Joe woke up. "That's it! I've found the solution! I know the answer to the puzzle!"</p>
+
+<p>Robbie and Joe got up right away. They looked at one another and then at Mr Williams. Robbie said hesitantly, "Are you sure Dad? It looks impossible to me."</p>
+
+<p>"Yes, of course I'm sure. I've done it. Now, first I click on the reply icon, right? And then I write the answers. The first word is Bill - it's the man's first name and the abbreviation of my second name, Williams. The second word is gate. It's a barrier and a way to enter."</p>
+
+<p>"So the man is Bill Gates," said Joe.</p>
+
+<p>"Exactly," replied Mr Williams. "The third word is Microsoft - his baby, his creation, but also a monster in the opinion of some people. And the last word is Seattle. That's where Bill Gates lives and where he started Microsoft, the beginning."</p>
+
+<p>"That's brilliant Dad. Well done!" said Robbie.</p>
+
+<p>"Now," continued Mr Williams, "if we take the first letter of each word we have B, G, M, and S. We have to add two more letters - I and A - and these six letters should spell the name of the hacker." Everyone looked at the six letters:</p>
+
+<p>B G M S I A</p>
+
+<p>They tried to see a name but they could only see words like big and bags but no names. Then suddenly Mr Williams jumped up and yelled, "Yes! Yes! I know the name of the hacker..."</p><empty-line /><p>CHAPTER TWELVE</p>
+
+<p><strong>A Holiday for Someone</strong></p>
+
+<p>"Sam Gib," said Mr Williams. "I don't believe it. But why does he hate me?"</p>
+
+<p>"Maybe because you sacked him two weeks ago," suggested Belinda. Robbie asked, "Who's Sam Gib?" Mr Williams explained, "He used to work here at the bank. In the beginning he was a good bank teller. Then he started to arrive late for work every day. Instead of working he used to surf the net and log on to chat rooms. He spent hours talking to people all over the world. So I sacked him. But wait a minute. If he left two weeks ago, how did he know the new computer passwords?"</p>
+
+<p>Belinda had the answer to his question.</p>
+
+<p>"He came back to the bank a few days ago to empty his desk. I think you were in a meeting. I remember that he went to Mike's office and stayed there for a long time. I thought he was talking to Mike, but now I think about it Mike wasn't there all the time. Anyway, Mr Williams, you're a hero. You've saved the bank!"</p>
+
+<p>"Yes, and there are only two minutes left. Look, it's 9.13," said Joe.</p>
+
+<p>They all looked at the computer screen. Suddenly Robbie said, "Dad, did you remember to click on the 'send' icon to return the message to the hacker, I mean, Sam Gib?"</p>
+
+<p>"Oh, no! Quickly, click, CLICK before it's too late!" shouted Mr Williams. Four hands tried to operate the mouse but in the confusion it fell on the floor. Finally Robbie picked up the mouse, clicked and the message disappeared. For a moment nobody spoke. Then they all began laughing and hugging each another.</p>
+
+<p>"We've won! We've won, you've won, Dad," said Robbie while Joe hugged Belinda again. Mr Williams went downstairs to give the good news to the staff, who also laughed and applauded their boss. When Mr Williams returned to his office he picked up the phone.</p>
+
+<p>"Now I can call the police and tell them everything and they can go to Sam's house and arrest him." But before he could do it, another e-mail arrived.</p>
+
+<p>Hello Henry</p>
+
+<p>Now you know who I am. Congratulations!</p>
+
+<p>Did you enjoy playing my game?</p>
+
+<p>When you sacked me I wanted my revenge so I sent the virus that infected the bank's computers. But it wasn't enough. You installed a new computer system so I came to visit Mike and saw the new passwords on his desk. It was so easy. You really need to improve security at the bank. Maybe I can help you?</p>
+
+<p>But Henry, I still have a surprise for you...</p>
+
+<p>This time Mr Williams went white.</p>
+
+<p>"Oh please no! Not another puzzle!" he cried.</p>
+
+<p>I think I need a holiday. As you booked your holiday to the Caribbean on the net, I changed the address and the tickets arrived at my house instead of your house yesterday. I also changed the date of the holiday and I'm leaving at 10.00 today. I'm sending this message from the airport on my new laptop. To show you that I am a kind person, I have returned all the money to your bank account.</p>
+
+<p>Thanks for the holiday. Maybe we can play another game when I come back...</p><empty-line /><p>- THE END -</p>
+
+<p>Hope you have enjoyed the reading!</p>
+
+<p>Come back to http://english-e-books.net/ to find more fascinating and exciting stories!</p>
+</section>
+
+</body><binary id="_0.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAAEBkAGQAAD//gAfTEVBRCBUZWNobm9sb2dpZXMgSW5jLiBWMS4wMQD
+/2wCEAAUFBQgFCAwHBwwMCQkJDA0MDAwMDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ
+0NDQ0NDQ0NDQ0NDQ0NDQ0BBQgICgcKDAcHDA0MCgwNDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0ND
+Q0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDf/EAaIAAAEFAQEBAQEBAAAAAAAAAAABAgME
+BQYHCAkKCwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEAACAQMDAgQDBQUEBAAAAX0
+BAgMABBEFEiExQQYTUWEHInEUMoGRoQgjQrHBFVLR8CQzYnKCCQoWFxgZGiUmJygpKjQ1Nj
+c4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoOEhYaHiImKkpOUlZaXmJmao
+qOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4eLj5OXm5+jp6vHy8/T19vf4
++foRAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJ
+y0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3
+h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW1
+9jZ2uLj5OXm5+jp6vLz9PX29/j5+v/AABEIARgAsAMBEQACEQEDEQH/2gAMAwEAAhEDEQA/
+APjKgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoA
+KACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAK
+ACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKA
+CgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKAC
+gAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACg
+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
+UAFABQAUAFABQAUAFABQAUAFAH/2Q==
+</binary>
+</FictionBook>
