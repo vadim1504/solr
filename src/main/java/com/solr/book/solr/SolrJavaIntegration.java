@@ -7,22 +7,18 @@ import org.apache.solr.client.solrj.impl.HttpSolrClient;
 import org.apache.solr.client.solrj.impl.XMLResponseParser;
 import org.apache.solr.client.solrj.response.QueryResponse;
 import org.apache.solr.common.SolrInputDocument;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Value;
-import org.springframework.context.annotation.Configuration;
-import org.springframework.context.annotation.PropertySource;
-import org.springframework.core.env.Environment;
 
 import java.io.IOException;
-import java.util.Date;
 import java.util.List;
-import java.util.Map;
 
-@Configuration
 public class SolrJavaIntegration {
 
-    @Autowired
     private HttpSolrClient solrClient;
+
+    public SolrJavaIntegration(String clientUrl) {
+        solrClient = new HttpSolrClient.Builder(clientUrl).build();
+        solrClient.setParser(new XMLResponseParser());
+    }
 
     public void addBookBean(BookBean pBean) throws IOException, SolrServerException {
         solrClient.addBean(pBean);
@@ -74,5 +70,13 @@ public class SolrJavaIntegration {
 */
 
         return response.getBeans(BookBean.class);
+    }
+
+    public HttpSolrClient getSolrClient() {
+        return solrClient;
+    }
+
+    public void setSolrClient(HttpSolrClient solrClient) {
+        this.solrClient = solrClient;
     }
 }
